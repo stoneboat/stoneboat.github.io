@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Yu Wei
+title: about
 permalink: /
 subtitle: PhD student in <a href='https://www.cs.purdue.edu/people/graduate-students/wei402.html'>CS</a>, at Purdue
 
