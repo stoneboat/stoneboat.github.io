@@ -18,10 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I currently study cryptography under the guidance of Professor [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/).
+I am a third year PhD student at Purdue, and I currently study cryptography under the supervision of Professor [Vassilis Zikas](https://www.cs.purdue.edu/homes/vzikas/). Prior to that, I studied at Nankai University, China, where I obtained my master's and bachelor's degrees in Computer Science and a bachelor's degree in Law. Regarding work, my passion lies in crafting tools and systems that establish rigorous practices for privacy/security in computation. I am particularly interested in exploring the intersection of machine learning, cryptography, and privacy.
 
-Write your biography here. Tell the world about yourself. 
-<!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+My recent research focuses on developing generic tools for differential privacy analysis. I'm primarily interested in addressing the following question: How can one compute the tight privacy/utility tradeoff spectrum for any randomized algorithm within a given class? I am exploring this question through various lens and my goal is to create an easy-to-use privacy analysis toolset for domain experts who know how to extract useful information, but don't know how to prove the extracted result preserves privacy. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
