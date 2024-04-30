@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://stoneboat.github.io/sitemap.xml
