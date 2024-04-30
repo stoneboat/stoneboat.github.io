@@ -7,3 +7,8 @@
 
 "Vision":
   color: "#009f36"
+
+
+"S&P24":
+  url: https://sp2024.ieee-security.org
+  color: "#00369f"
