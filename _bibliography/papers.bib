@@ -15,8 +15,67 @@ url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00166},
 publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month = {may},
-abbr={S&P24},
+abbr={S&P},
 selected={true},
 bibtex_show={true},
 html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
+}
+
+@article{WeiJWHDLCPW24,
+author = {Wei, Yu and Jia, Jingyu and Wu, Yuduo and Hu, Changhui and Dong, Changyu and Liu, Zheli and Chen, Xiaofeng and Peng, Yun and Wang, Shaowei},
+title = {Distributed Differential Privacy via Shuffling Versus Aggregation: A Curious Study},
+year = {2024},
+issue_date = {2024},
+publisher = {IEEE Press},
+volume = {19},
+issn = {1556-6013},
+url = {https://doi.org/10.1109/TIFS.2024.3351474},
+doi = {10.1109/TIFS.2024.3351474},
+abstract = {How to achieve distributed differential privacy (DP) without a trusted central party is of great interest in both theory and practice. Recently, the shuffle model has attracted much attention. Unlike the local DP model in which the users send randomized data directly to the data collector/analyzer, in the shuffle model an intermediate untrusted shuffler is introduced to randomly permute the data, which have already been randomized by the users, before they reach the analyzer. The most appealing aspect is that while shuffling does not explicitly add more noise to the data, it can make privacy better. The privacy amplification effect in consequence means the users need to add less noise to the data than in the local DP model, but can achieve the same level of differential privacy. Thus, protocols in the shuffle model can provide better accuracy than those in the local DP model. What looks interesting to us is that the architecture of the shuffle model is similar to private aggregation, which has been studied for more than a decade. In private aggregation, locally randomized user data are aggregated by an intermediate untrusted aggregator. Thus, our question is whether aggregation also exhibits some sort of privacy amplification effect? And if so, how good is this “aggregation model” in comparison with the shuffle model. We conducted the first comparative study between the two, covering privacy amplification, functionalities, protocol accuracy, and practicality. The results as yet suggest that the new shuffle model does not have obvious advantages over the old aggregation model. On the contrary, protocols in the aggregation model outperform those in the shuffle model, sometimes significantly, in many aspects.},
+journal = {Trans. Info. For. Sec.},
+month = {jan},
+pages = {2501–2516},
+numpages = {16},
+abbr={TIFS},
+selected={true},
+bibtex_show={true},
+html={https://dl.acm.org/doi/abs/10.1109/TIFS.2024.3351474},
+}
+
+@article{LiHWLLDL21,
+  author       = {Jin Li and
+                  Yanyu Huang and
+                  Yu Wei and
+                  Siyi Lv and
+                  Zheli Liu and
+                  Changyu Dong and
+                  Wenjing Lou},
+  title        = {Searchable Symmetric Encryption with Forward Search Privacy},
+  journal      = {{IEEE} Trans. Dependable Secur. Comput.},
+  volume       = {18},
+  number       = {1},
+  pages        = {460--474},
+  year         = {2021},
+  bibtex_show={true},
+  abbr={TDSC},
+  html={https://ieeexplore.ieee.org/document/8621026},
+}
+
+@inproceedings{DBLP:conf/uss/Hu0LGWGLD21,
+  author       = {Changhui Hu and
+                  Jin Li and
+                  Zheli Liu and
+                  Xiaojie Guo and
+                  Yu Wei and
+                  Xuan Guang and
+                  Grigorios Loukides and
+                  Changyu Dong},
+  title        = {How to Make Private Distributed Cardinality Estimation Practical,
+                  and Get Differential Privacy for Free},
+  booktitle    = {{USENIX} Security Symposium},
+  pages        = {965--982},
+  publisher    = {{USENIX} Association},
+  year         = {2021},
+  abbr={USENIX},
+  selected={true},
 }

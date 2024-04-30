@@ -1,14 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"S&P":
+  url: https://sp2024.ieee-security.org
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"USENIX":
+  url: https://www.usenix.org/conference
+  color: "#00369f"
 
-"Vision":
+
+"TIFS":
+  url: https://dl.acm.org/journal/tifs
   color: "#009f36"
 
 
-"S&P24":
-  url: https://sp2024.ieee-security.org
-  color: "#00369f"
+"TDSC":
+  url: https://dl.acm.org/journal/tdsc
+  color: "#009f36"
