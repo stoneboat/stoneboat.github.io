@@ -6,14 +6,10 @@ inline: false
 related_posts: false
 ---
 
-Images can be made zoomable.
-Simply add `data-zoomable` to `<img>` tags that you want to make zoomable.
+Thanks to Wonseok! Our work "On Overidealizing Ideal Worlds: Xor of Two Permutations and its Applications" with Wonseok, Minki and Vassilis won the first prize of the 2023 Korea National Cryptography Contest. I appreciated the chance of playing in the world of Symmetric key Cryptography :smile: . 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/10.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/KoreanCrypto23.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
