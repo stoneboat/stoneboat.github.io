@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in <a href='https://www.cs.purdue.edu/people/graduate-students/wei402.html'>CS</a>
+subtitle: PhD student in Computer Scienc
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>HASS 273</p>
-    <p>Purdue University, 305 N University Street</p>
-    <p>West Lafayette, Indiana</p>
+  more_info: 
+    <p>Georgia Institute of Technology</p>
+    <p>756 West Peachtree Street NW, Atlanta, GA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
