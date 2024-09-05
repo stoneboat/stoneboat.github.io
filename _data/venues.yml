@@ -2,6 +2,10 @@
   url: https://sp2024.ieee-security.org
   color: "#00369f"
 
+  "TCC":
+  url: https://tcc.iacr.org/2024
+  color: "#00369f"
+
 "USENIX":
   url: https://www.usenix.org/conference
   color: "#00369f"
