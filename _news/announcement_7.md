@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I was excited to have my paper on black-box f-differential privacy estimators accepted at USENIX 2025!
+I was excited to have my paper on black-box f-differential privacy auditors/estimators accepted at USENIX 2025!
+
 
