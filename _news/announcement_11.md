@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was excited to have my paper on pseudo-equilibria accepted at CRYPTO 2026!
+I was excited to have our paper on pseudo-equilibria accepted at CRYPTO 2026!
