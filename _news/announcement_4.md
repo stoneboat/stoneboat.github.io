@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I spent this summer as a visiting researcher at **UMD**, and I want to give a huge thanks to **Professor Katz** for being an amazing host! 
+I spent this summer as a visiting researcher at **UMD**, and I want to give a huge thanks to **Professor Katz** for being an amazing host!
