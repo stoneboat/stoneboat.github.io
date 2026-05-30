@@ -10,6 +10,14 @@
   url: https://www.usenix.org/conference
   color: "#00369f"
 
+"CRYPTO":
+  url: https://crypto.iacr.org
+  color: "#00369f"
+
+"ICML":
+  url: https://icml.cc
+  color: "#00369f"
+
 
 "TIFS":
   url: https://dl.acm.org/journal/tifs
