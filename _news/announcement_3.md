@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was excited to have my paper on black-box differential privacy estimators accepted at S&P 2024!
+I was excited to have my paper on **black-box differential privacy estimators** accepted at **S&P 2024**!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was excited to have our paper on information-theoretic mluti-server PIR accepted at TCC 2024!
+I was excited to have our paper on **information-theoretic mluti-server PIR** accepted at **TCC 2024**!

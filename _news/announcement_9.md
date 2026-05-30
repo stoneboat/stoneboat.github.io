@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I was selected as an [RSAC Security Scholar](https://www.rsaconference.com/rsac-programs/security-scholar/poster-boards) in class 2026! 
+I was selected as an [**RSAC Security Scholar**](https://www.rsaconference.com/rsac-programs/security-scholar/poster-boards) in class 2026! 
 
