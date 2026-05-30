@@ -48,6 +48,23 @@ table.table a {
   }
 }
 
+table.table a.news-title {
+  color: var(--global-text-color);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+
+  strong {
+    color: inherit;
+  }
+
+  &:hover {
+    color: var(--global-theme-color);
+    text-decoration-style: solid;
+  }
+}
+
 .table-dark {
   background-color: transparent;
   &.table-bordered {

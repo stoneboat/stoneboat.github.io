@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was excited to win the 2023 Korea National Cryptography Contest First Prize! 
+title: I was excited to win the 2023 **Korea National Cryptography Contest First Prize**! 
 date: 2023-10-09 16:11:00-0400
 inline: false
 related_posts: false

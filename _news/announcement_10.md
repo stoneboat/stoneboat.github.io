@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I was excited to have my paper accepted at ICML 2026 as a spotlight!
+title: I was excited to have my paper on study of **Additive-noise Mechanism** accepted at **ICML 2026** as a **spotlight**!
 date: 2026-04-30 15:59:00-0400
 inline: false
 related_posts: false

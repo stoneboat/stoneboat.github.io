@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to share that our paper **"Sequential Auditing for f-Differential Privacy"** has been accepted to **USENIX**!
+I was excited to have our paper on **sequential f-DP auditor** accepted at **USENIX 2026**!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Please check my work "The Normal Distributions Indistinguishability Spectrum and its Application to Privacy-Preserving Machine Learning" on arXiv. 
+title: Please check my work **The Normal Distributions Indistinguishability Spectrum and its Application to Privacy-Preserving Machine Learning** on arXiv. 
 date: 2024-3-5 15:59:00-0400
 inline: false
 related_posts: false
